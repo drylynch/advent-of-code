@@ -1,2 +1,5 @@
-# aoc2018
-advent of code 2018
+# advent of code 2018
+
+https://adventofcode.com/2018
+
+very festive
