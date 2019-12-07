@@ -14,8 +14,8 @@ class VM:
                       2: 4,
                       3: 2,
                       4: 2,
-                      5: 3,  # never increment ip
-                      6: 3,  # never increment ip
+                      5: 3,
+                      6: 3,
                       7: 4,
                       8: 4,
                       99: 1}
